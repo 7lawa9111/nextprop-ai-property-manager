@@ -1,0 +1,13 @@
+{
+  "property_label": "Azizi Riviera - Phase 1 - Riviera 3",
+  "unit_type": "1BR",
+  "current_rent": 85000,
+  "market_rent": 95000,
+  "avg_sale_value": 1350000,
+  "yield_gap_aed": 10000,
+  "yield_gap_pct": 11.8,
+  "confidence_score": 0.87,
+  "insight": "Property is underpriced compared to similar units in the building cluster. Adjusting rent could increase annual income.",
+  "delivery_channel": "Telegram",
+  "status": "delivered"
+}
